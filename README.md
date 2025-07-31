@@ -1,0 +1,2 @@
+# shimamoto
+2025年夏に行われるUnityGameJamのリポジトリ
